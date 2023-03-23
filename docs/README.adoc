@@ -1,3 +1,34 @@
 = Busic
 :nofooter:
 :toc: left
+
+[blockquote, t-h2o]
+____
+Busic a word to say a "Basic music theory".
+____
+
+== Note
+
+[blockquote, wikipedia.com]
+____
+In music, a note is the representation of a musical sound.
+____
+
+What are the difference between 'do' 're' 'mi' and 'C' 'D' 'E'? +
+Look this https://en.wikipedia.org/wiki/Musical_note#12-tone_chromatic_scale[table], there are many ways to say the same note.
+
+.wikipedia
+* https://en.wikipedia.org/wiki/Musical_note[note]
+
+== Chord
+
+What is a chord ?
+
+[blockquote, wordnik.com]
+____
+A combination of three or more pitches sounded simultaneously.
+____
+
+.wikipedia
+* https://en.wikipedia.org/wiki/Chord_(music)[chord]
+* https://en.wikipedia.org/wiki/Twelve-bar_blues[Twelve-bar blues]
