@@ -32,3 +32,7 @@ ____
 .wikipedia
 * https://en.wikipedia.org/wiki/Chord_(music)[chord]
 * https://en.wikipedia.org/wiki/Twelve-bar_blues[Twelve-bar blues]
+
+== Twelve-bar blues
+
+image::bar-blues.svg[Static]

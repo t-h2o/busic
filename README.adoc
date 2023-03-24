@@ -1,1 +1,5 @@
 = Busic
+
+== Resources
+
+* Create sheet music: https://lilypond.org/index.html[lilypond]

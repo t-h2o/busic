@@ -10,6 +10,16 @@ doc:
 	@$(ADOC) $(DOCU) -o $(INDEX)
 	@printf "$(GREEN)page done!$(DEFAULT)\n"
 
+lilypond:
+	@printf "$(YELLOW)Generating beautiful sheet..$(DEFAULT)\n"
+	@lilypond --svg --output=docs lilypond/bar-blues.ly
+	@printf "$(GREEN)sheet done!$(DEFAULT)\n"
+
+
+
+
+.PHONY: lilypond doc
+
 
 
 #COLORS
