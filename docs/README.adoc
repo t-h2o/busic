@@ -38,3 +38,7 @@ ____
 download the pdf link:bar-blues.pdf[PDF page]
 
 image::bar-blues.svg[Static]
+
+== Piano
+
+image::piano-note-guide.png[piano note guide]
