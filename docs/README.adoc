@@ -35,4 +35,6 @@ ____
 
 == Twelve-bar blues
 
+download the pdf link:bar-blues.pdf[PDF page]
+
 image::bar-blues.svg[Static]
