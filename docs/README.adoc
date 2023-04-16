@@ -39,6 +39,10 @@ download the pdf link:bar-blues.pdf[PDF page]
 
 image::bar-blues.svg[Static]
 
+== Note MIDI
+
+image::88-notes-classical-keyboard-Note-names-and-MIDI-numbers.png[notes classical keyboard Note names and MIDI numbers]
+
 == Piano
 
 image::piano-note-guide.png[piano note guide]
