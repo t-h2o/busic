@@ -46,3 +46,24 @@ image::88-notes-classical-keyboard-Note-names-and-MIDI-numbers.png[notes classic
 == Piano
 
 image::piano-note-guide.png[piano note guide]
+
+== gamme
+
+check the link:../script/chord.py[source code] to generate this output
+----
+Major gamme of C -> C  D  E  F  G  A  B
+Major gamme of G -> G  A  B  C  D  E  F#
+Major gamme of D -> D  E  F# G  A  B  C#
+Major gamme of A -> A  B  C# D  E  F# G#
+Major gamme of E -> E  F# G# A  B  C# D#
+Major gamme of B -> B  C# D# E  F# G# A#
+Major gamme of F -> F# G# A# B  C# D# E#
+
+Major gamme of C -> C  D  E  F  G  A  B
+Major gamme of F -> F  G  A  Bb C  D  E
+Major gamme of B -> Bb C  D  Eb F  G  A
+Major gamme of E -> Eb F  G  Ab Bb C  D
+Major gamme of A -> Ab Bb C  Db Eb F  G
+Major gamme of D -> Db Eb F  Gb Ab Bb C
+Major gamme of F -> F  Gb Ab Bb Cb Db Eb
+----
