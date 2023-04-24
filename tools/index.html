@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+	<link href="main.css" rel="stylesheet" />
+    <meta charset="utf-8" />
+    <title>Busic tool</title>
+  </head>
+
+  <body>
+	  <h1>Busic tool</h1>
+	  <p>
+	<legend>Select your betweeen minor or Major :</legend>
+    <div>
+      <input type="radio" id="do" name="note" class="note" value="do" />
+      <label for="do">C</label>
+
+	  </br>
+      <input type="radio" id="re" name="note" class="note" value="re" />
+      <label for="re">D</label>
+
+	  </br>
+      <input type="radio" id="mi" name="note" class="note" value="mi" />
+      <label for="mi">D</label>
+
+	  </br>
+      <input type="radio" id="fa" name="note" class="note" value="fa" />
+      <label for="fa">F</label>
+
+	  </br>
+      <input type="radio" id="sol" name="note" value="sol" />
+      <label for="sol">G</label>
+
+	  </br>
+      <input type="radio" id="la" name="note" value="la" />
+      <label for="la">A</label>
+
+	  </br>
+      <input type="radio" id="si" name="note" value="si" />
+      <label for="si">B</label>
+    </div>
+	  </p>
+
+	  <p>
+	  <button
+  type="button"
+  role="switch"
+  aria-checked="true"
+  id="speakerPower"
+  class="switch">
+  <span aria-hidden="true">minor</span>
+  <span aria-hidden="true">Major</span>
+</button>
+<label for="speakerPower" class="switch">Speaker power</label>
+
+
+	<p class="result"></p>
+	<script src="script.js" defer></script>
+  </body>
+</html>
