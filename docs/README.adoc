@@ -49,7 +49,8 @@ image::piano-note-guide.png[piano note guide]
 
 == gamme
 
-check the link:../script/chord.py[source code] to generate this output
+check the https://github.com/t-h2o/busic/blob/main/script/chord.py[source code] to generate this output
+
 ----
 Major gamme of C -> C  D  E  F  G  A  B
 Major gamme of G -> G  A  B  C  D  E  F#
@@ -66,4 +67,20 @@ Major gamme of E -> Eb F  G  Ab Bb C  D
 Major gamme of A -> Ab Bb C  Db Eb F  G
 Major gamme of D -> Db Eb F  Gb Ab Bb C
 Major gamme of F -> F  Gb Ab Bb Cb Db Eb
+
+minor gamme of A -> A  B  C  D  E  F  G
+minor gamme of E -> E  F# G  A  B  C  D
+minor gamme of B -> B  C# D  E  F# G  A
+minor gamme of F -> F# G# A  B  C# D  E
+minor gamme of C -> C# D# E  F# G# A  B
+minor gamme of G -> G# A# B  C# D# E  F#
+minor gamme of D -> D# E# F# G# A# B  C#
+
+minor gamme of A -> A  B  C  D  E  F  G
+minor gamme of D -> D  E  F  G  A  Bb C
+minor gamme of G -> G  A  Bb C  D  Eb F
+minor gamme of C -> C  D  Eb F  G  Ab Bb
+minor gamme of F -> F  G  Ab Bb C  Db Eb
+minor gamme of B -> Bb C  Db Eb F  Gb Ab
+minor gamme of E -> Eb F  Gb Ab Bb Cb Db
 ----
