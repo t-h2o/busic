@@ -14,6 +14,7 @@ function handleClickEvent(evt) {
 
 const submitButton = document.querySelector('#submit');
 const radioNoteButtons = document.querySelectorAll('input[name="note"]');
+const resultParagraph = document.getElementById("result");
 
 submitButton.addEventListener("click", () =>
 {
@@ -22,13 +23,13 @@ submitButton.addEventListener("click", () =>
 	{
 		if (radioNoteButton.checked)
 		{
-			console.log("true ", radioNoteButton);
 			selectedNote = radioNoteButton.value;
 			break;
 		}
 	}
 	console.log("radio value: ", selectedNote);
 
+	resultParagraph.textContent = "The note is " + selectedNote;
 });
 
 // if isMajor is true, so it's not minor and vice versa
