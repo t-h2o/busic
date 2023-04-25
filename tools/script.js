@@ -12,15 +12,24 @@ function handleClickEvent(evt) {
   }
 }
 
-const radioGroups = document.querySelectorAll('[role="radiogroup"]');
+const submitButton = document.querySelector('#submit');
+const radioNoteButtons = document.querySelectorAll('input[name="note"]');
 
-for (let i = 0, groups = radioGroups.length; i < groups; i++) {
-  const radios = radioGroups[i].querySelectorAll("[role=radio]");
-  for (let j = 0, radiobuttons = radios.length; j < radios; j++) {
-    radios[j].addEventListener("keydown", get_range );
-    radios[j].addEventListener("click", get_range );
-  }
-}
+submitButton.addEventListener("click", () =>
+{
+	let selectedNote;
+	for (const radioNoteButton of radioNoteButtons)
+	{
+		if (radioNoteButton.checked)
+		{
+			console.log("true ", radioNoteButton);
+			selectedNote = radioNoteButton.value;
+			break;
+		}
+	}
+	console.log("radio value: ", selectedNote);
+
+});
 
 // if isMajor is true, so it's not minor and vice versa
 function get_range() {
