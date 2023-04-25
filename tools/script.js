@@ -15,7 +15,9 @@ function handleClickEvent(evt) {
 const submitButton = document.querySelector('#submit');
 const radioNoteButtons = document.querySelectorAll('input[name="note"]');
 const resultParagraph = document.getElementById("result");
+const noteListParagraph = document.getElementById("noteList");
 const mmSwitch = document.getElementById("mmSwitch");
+const notesArray = ["A", "B", "C", "D"];
 
 function isMajor(isMajorBool) {
 	if (isMajorBool == "true")
@@ -42,6 +44,9 @@ submitButton.addEventListener("click", () =>
 		+ selectedNote
 		+ " "
 		+ isMajor(document.getElementById("mmSwitch").getAttribute("aria-checked"));
+
+	noteListParagraph.textContent = notesArray;
+
 });
 
 // if isMajor is true, so it's not minor and vice versa
