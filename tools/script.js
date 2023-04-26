@@ -22,8 +22,7 @@ const notesArray = ["C", "C#", "D", "D#", "E", "F", "F#", "G", "G#", "A", "A#", 
 function isMajor(isMajorBool) {
 	if (isMajorBool == "true")
 		return "major"
-	else
-		return "minor"
+	return "minor"
 }
 
 submitButton.addEventListener("click", () =>
