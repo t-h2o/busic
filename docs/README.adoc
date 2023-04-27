@@ -1,4 +1,5 @@
 = Busic
+:stem:
 :nofooter:
 :toc: left
 
@@ -84,3 +85,10 @@ minor gamme of F -> F  G  Ab Bb C  Db Eb
 minor gamme of B -> Bb C  Db Eb F  Gb Ab
 minor gamme of E -> Eb F  Gb Ab Bb Cb Db
 ----
+
+== css donut radio button
+
+[stem]
+++++
+2 * (\tan(15^o) * 150_{px}) = 80_{px}
+++++

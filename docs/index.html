@@ -448,6 +448,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <li><a href="#_note_midi">Note MIDI</a></li>
 <li><a href="#_piano">Piano</a></li>
 <li><a href="#_gamme">gamme</a></li>
+<li><a href="#_css_donut_radio_button">css donut radio button</a></li>
 </ul>
 </div>
 </div>
@@ -598,6 +599,40 @@ minor gamme of E -&gt; Eb F  Gb Ab Bb Cb Db</pre>
 </div>
 </div>
 </div>
+<div class="sect1">
+<h2 id="_css_donut_radio_button">css donut radio button</h2>
+<div class="sectionbody">
+<div class="stemblock">
+<div class="content">
+\$2 * (\tan(15^o) * 150_{px}) = 80_{px}\$
 </div>
+</div>
+</div>
+</div>
+</div>
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  messageStyle: "none",
+  tex2jax: {
+    inlineMath: [["\\(", "\\)"]],
+    displayMath: [["\\[", "\\]"]],
+    ignoreClass: "nostem|nolatexmath"
+  },
+  asciimath2jax: {
+    delimiters: [["\\$", "\\$"]],
+    ignoreClass: "nostem|noasciimath"
+  },
+  TeX: { equationNumbers: { autoNumber: "none" } }
+})
+MathJax.Hub.Register.StartupHook("AsciiMath Jax Ready", function () {
+  MathJax.InputJax.AsciiMath.postfilterHooks.Add(function (data, node) {
+    if ((node = data.script.parentNode) && (node = node.parentNode) && node.classList.contains("stemblock")) {
+      data.math.root.display = "block"
+    }
+    return data
+  })
+})
+</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.9/MathJax.js?config=TeX-MML-AM_HTMLorMML"></script>
 </body>
 </html>
