@@ -10,7 +10,7 @@ def major_diese_circle():
     for chord in circle:
         index = note.find(chord)
 
-        print("Major gamme of ", chord, " -> ",sep='', end='')
+        print("Major scale of ", chord, " -> ",sep='', end='')
         for i in range(7):
             current_note = note[(index + i) % 7]
             print(current_note,end='')
@@ -33,7 +33,7 @@ def major_bemole_circle():
     for chord in circle:
         index = note.find(chord)
 
-        print("Major gamme of ", chord, " -> ",sep='', end='')
+        print("Major scale of ", chord, " -> ",sep='', end='')
         for i in range(7):
             current_note = note[(index + i) % 7]
             print(current_note,end='')
@@ -56,7 +56,7 @@ def minor_diese_circle():
     for chord in circle:
         index = note.find(chord)
 
-        print("minor gamme of ", chord, " -> ",sep='', end='')
+        print("minor scale of ", chord, " -> ",sep='', end='')
         for i in range(7):
             current_note = note[(index + i) % 7]
             print(current_note,end='')
@@ -79,7 +79,7 @@ def minor_bemole_circle():
     for chord in circle:
         index = note.find(chord)
 
-        print("minor gamme of ", chord, " -> ",sep='', end='')
+        print("minor scale of ", chord, " -> ",sep='', end='')
         for i in range(7):
             current_note = note[(index + i) % 7]
             print(current_note,end='')
