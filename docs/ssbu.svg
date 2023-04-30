@@ -5,74 +5,108 @@ tspan { white-space: pre; }
 ]]>
 </style>
 <g transform="translate(14.2264, 12.0117)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="28.6654" y2="0"/>
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="38.9187" y2="0"/>
 </g>
 <g transform="translate(14.2264, 11.0117)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="28.6654" y2="0"/>
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="38.9187" y2="0"/>
 </g>
 <g transform="translate(14.2264, 10.0117)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="28.6654" y2="0"/>
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="38.9187" y2="0"/>
 </g>
 <g transform="translate(14.2264, 9.0117)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="28.6654" y2="0"/>
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="38.9187" y2="0"/>
 </g>
 <g transform="translate(14.2264, 8.0117)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="28.6654" y2="0"/>
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="38.9187" y2="0"/>
 </g>
-<g transform="translate(36.6684, 10.0117)">
-<rect x="-0.0650" y="-2.5377" width="0.1300" height="2.8516" ry="0.0400" fill="currentColor"/>
+<g transform="translate(45.5315, 10.0117)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///home/theo/busic/lilypond/ssbu.ly:6:16:17">
-<g transform="translate(35.4292, 10.5117)">
+<a style="color:inherit;" xlink:href="textedit:///home/theo/busic/lilypond/ssbu.ly:8:2:3">
+<g transform="translate(46.6215, 12.0117)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(34.1642, 10.0117)">
-<rect x="-0.0650" y="-2.8031" width="0.1300" height="2.6170" ry="0.0400" fill="currentColor"/>
+<g transform="translate(44.2683, 7.3017)">
+<path transform="scale(0.0040, -0.0040)" d="M0 -212v-5c0 -110 85 -194 144 -285c3 11 5 23 5 35c0 93 -85 187 -149 255zM0 0c0 -175 191 -292 191 -467c0 -29 -8 -57 -19 -84c17 -35 29 -71 29 -111c0 -36 -8 -72 -23 -105c18 -35 29 -72 29 -113c0 -60 -15 -119 -41 -173c-5 -8 -13 -11 -20 -11
+c-13 0 -26 11 -23 27c26 49 42 102 42 157c0 91 -94 175 -165 233v-103h-16v750h16zM0 -430v-5c0 -112 88 -194 149 -285c6 19 10 38 10 58c0 90 -91 173 -159 232z" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///home/theo/busic/lilypond/ssbu.ly:6:14:15">
-<g transform="translate(32.9250, 10.0117)">
+<g transform="translate(44.2033, 10.0117)">
+<rect x="-0.0650" y="-2.7500" width="0.1300" height="4.0639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/theo/busic/lilypond/ssbu.ly:6:31:32">
+<g transform="translate(42.9641, 11.5117)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(30.5040, 10.0117)">
-<rect x="-0.0650" y="-0.3139" width="0.1300" height="3.1170" ry="0.0400" fill="currentColor"/>
+<g transform="translate(41.7008, 6.8017)">
+<path transform="scale(0.0040, -0.0040)" d="M0 -212v-5c0 -110 85 -194 144 -285c3 11 5 23 5 35c0 93 -85 187 -149 255zM0 0c0 -175 191 -292 191 -467c0 -29 -8 -57 -19 -84c17 -35 29 -71 29 -111c0 -36 -8 -72 -23 -105c18 -35 29 -72 29 -113c0 -60 -15 -119 -41 -173c-5 -8 -13 -11 -20 -11
+c-13 0 -26 11 -23 27c26 49 42 102 42 157c0 91 -94 175 -165 233v-103h-16v750h16zM0 -430v-5c0 -112 88 -194 149 -285c6 19 10 38 10 58c0 90 -91 173 -159 232z" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///home/theo/busic/lilypond/ssbu.ly:6:12:13">
-<g transform="translate(30.4390, 9.5117)">
+<g transform="translate(41.6358, 10.0117)">
+<rect x="-0.0650" y="-3.2500" width="0.1300" height="4.0639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/theo/busic/lilypond/ssbu.ly:6:27:28">
+<g transform="translate(40.3966, 11.0117)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(34.0992, 7.2017)">
-<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="7.6026 0.6100 7.6026 1.0100 0.0400 0.2000 0.0400 -0.2000"/>
+<g transform="translate(39.1334, 6.3017)">
+<path transform="scale(0.0040, -0.0040)" d="M0 -212v-5c0 -110 85 -194 144 -285c3 11 5 23 5 35c0 93 -85 187 -149 255zM0 0c0 -175 191 -292 191 -467c0 -29 -8 -57 -19 -84c17 -35 29 -71 29 -111c0 -36 -8 -72 -23 -105c18 -35 29 -72 29 -113c0 -60 -15 -119 -41 -173c-5 -8 -13 -11 -20 -11
+c-13 0 -26 11 -23 27c26 49 42 102 42 157c0 91 -94 175 -165 233v-103h-16v750h16zM0 -430v-5c0 -112 88 -194 149 -285c6 19 10 38 10 58c0 90 -91 173 -159 232z" fill="currentColor"/>
 </g>
-<g transform="translate(34.0992, 8.0117)">
-<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="7.6026 0.6100 7.6026 1.0100 0.0400 0.2000 0.0400 -0.2000"/>
+<g transform="translate(39.0684, 10.0117)">
+<rect x="-0.0650" y="-3.7500" width="0.1300" height="4.0639" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///home/theo/busic/lilypond/ssbu.ly:6:18:19">
-<g transform="translate(37.9334, 11.0117)">
+<a style="color:inherit;" xlink:href="textedit:///home/theo/busic/lilypond/ssbu.ly:6:23:24">
+<g transform="translate(37.8292, 10.5117)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(39.1726, 10.0117)">
-<rect x="-0.0650" y="-2.2723" width="0.1300" height="3.0862" ry="0.0400" fill="currentColor"/>
+<g transform="translate(22.9264, 10.2017)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="7.6026 0.8394 7.6026 1.2394 0.0400 0.2000 0.0400 -0.2000"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///home/theo/busic/lilypond/ssbu.ly:6:20:21">
-<g transform="translate(40.4376, 11.5117)">
+<g transform="translate(22.9264, 11.0117)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="7.6026 0.8394 7.6026 1.2394 0.0400 0.2000 0.0400 -0.2000"/>
+</g>
+<g transform="translate(22.9264, 11.8217)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="10.1068 1.1800 10.1068 1.5800 0.0400 0.2000 0.0400 -0.2000"/>
+</g>
+<g transform="translate(51.2931, 7.3017)">
+<path transform="scale(0.0040, -0.0040)" d="M0 -212v-5c0 -110 85 -194 144 -285c3 11 5 23 5 35c0 93 -85 187 -149 255zM0 0c0 -175 191 -292 191 -467c0 -29 -8 -57 -19 -84c17 -35 29 -71 29 -111c0 -36 -8 -72 -23 -105c18 -35 29 -72 29 -113c0 -60 -15 -119 -41 -173c-5 -8 -13 -11 -20 -11
+c-13 0 -26 11 -23 27c26 49 42 102 42 157c0 91 -94 175 -165 233v-103h-16v750h16zM0 -430v-5c0 -112 88 -194 149 -285c6 19 10 38 10 58c0 90 -91 173 -159 232z" fill="currentColor"/>
+</g>
+<g transform="translate(51.2281, 10.0117)">
+<rect x="-0.0650" y="-2.7500" width="0.1300" height="4.0639" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(52.5064, 11.5117)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/theo/busic/lilypond/ssbu.ly:8:7:8">
+<g transform="translate(49.9889, 11.5117)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(41.6768, 10.0117)">
-<rect x="-0.0650" y="-2.0069" width="0.1300" height="3.3208" ry="0.0400" fill="currentColor"/>
+<g transform="translate(47.9257, 7.8017)">
+<path transform="scale(0.0040, -0.0040)" d="M0 -212v-5c0 -110 85 -194 144 -285c3 11 5 23 5 35c0 93 -85 187 -149 255zM0 0c0 -175 191 -292 191 -467c0 -29 -8 -57 -19 -84c17 -35 29 -71 29 -111c0 -36 -8 -72 -23 -105c18 -35 29 -72 29 -113c0 -60 -15 -119 -41 -173c-5 -8 -13 -11 -20 -11
+c-13 0 -26 11 -23 27c26 49 42 102 42 157c0 91 -94 175 -165 233v-103h-16v750h16zM0 -430v-5c0 -112 88 -194 149 -285c6 19 10 38 10 58c0 90 -91 173 -159 232z" fill="currentColor"/>
 </g>
-<g transform="translate(22.9264, 11.2017)">
-<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="7.6026 0.6100 7.6026 1.0100 0.0400 0.2000 0.0400 -0.2000"/>
+<g transform="translate(47.8607, 10.0117)">
+<rect x="-0.0650" y="-2.2500" width="0.1300" height="4.0639" ry="0.0400" fill="currentColor"/>
 </g>
-<g transform="translate(22.9264, 12.0117)">
-<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="7.6026 0.6100 7.6026 1.0100 0.0400 0.2000 0.0400 -0.2000"/>
+<g transform="translate(49.1389, 11.5117)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
 </g>
+<g transform="translate(25.4956, 10.0117)">
+<rect x="-0.0650" y="-1.3139" width="0.1300" height="3.4733" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/theo/busic/lilypond/ssbu.ly:6:8:9">
+<g transform="translate(25.4306, 8.5117)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
 <g transform="translate(22.9914, 10.0117)">
-<rect x="-0.0650" y="-1.8139" width="0.1300" height="3.8208" ry="0.0400" fill="currentColor"/>
+<rect x="-0.0650" y="-1.8139" width="0.1300" height="3.6327" ry="0.0400" fill="currentColor"/>
 </g>
 <a style="color:inherit;" xlink:href="textedit:///home/theo/busic/lilypond/ssbu.ly:5:2:3">
 <g transform="translate(19.2264, 6.5180)">
@@ -102,28 +136,36 @@ c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-5 -1 -44 -8 -89 -8c-193 0 
 <path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(27.9998, 10.0117)">
-<rect x="-0.0650" y="-0.8139" width="0.1300" height="3.3516" ry="0.0400" fill="currentColor"/>
+<g transform="translate(30.5040, 10.0117)">
+<rect x="-0.0650" y="-0.3139" width="0.1300" height="3.1545" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///home/theo/busic/lilypond/ssbu.ly:6:10:11">
+<g transform="translate(33.0082, 10.0117)">
+<rect x="-0.0650" y="0.1861" width="0.1300" height="2.9951" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/theo/busic/lilypond/ssbu.ly:6:20:21">
+<g transform="translate(32.9432, 10.0117)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/theo/busic/lilypond/ssbu.ly:6:16:17">
+<g transform="translate(30.4390, 9.5117)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(27.9998, 10.0117)">
+<rect x="-0.0650" y="-0.8139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/theo/busic/lilypond/ssbu.ly:6:12:13">
 <g transform="translate(27.9348, 9.0117)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(25.4956, 10.0117)">
-<rect x="-0.0650" y="-1.3139" width="0.1300" height="3.5862" ry="0.0400" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///home/theo/busic/lilypond/ssbu.ly:6:8:9">
-<g transform="translate(25.4306, 8.5117)">
-<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
-</g>
-</a>
-<g transform="translate(34.7579, 165.1154)">
+<g transform="translate(30.6607, 165.0671)">
 <a xlink:href="https://lilypond.org/">
-<rect x="0.0000" y="-0.4796" width="49.9858" height="1.9822" fill="none" stroke="none" stroke-width="0.0"/>
+<rect x="0.0000" y="-0.5280" width="58.1802" height="2.2000" fill="none" stroke="none" stroke-width="0.0"/>
 </a>
 </g>
-<g transform="translate(34.7579, 165.1154)">
+<g transform="translate(30.6607, 165.0671)">
 <text font-family="serif" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>Music engraving by LilyPond 2.24.1—www.lilypond.org</tspan>
 </text>
