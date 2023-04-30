@@ -3,7 +3,7 @@ ADOC	=	asciidoctor --require=asciidoctor-diagram
 DOCU	=	docs/README.adoc
 INDEX	=	docs/index.html
 
-LILYPOND_FILE	=	lilypond/funky_town.ly
+LILYPOND_FILE	=	lilypond/ssbu.ly
 
 
 doc:
