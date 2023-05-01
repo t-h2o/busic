@@ -10,10 +10,14 @@ doc:
 	@$(ADOC) $(DOCU) -o $(INDEX)
 	@printf "$(GREEN)page done!$(DEFAULT)\n"
 
+docdocker:
+	@printf "$(YELLOW)launch the asciidoctor/docker-asciidoctor docker image..$(DEFAULT)\n"
+	@docker run --rm -v $(shell pwd):/documents/ asciidoctor/docker-asciidoctor make doc
+
 lilypond:
 	@printf "$(YELLOW)Generating beautiful sheet..$(DEFAULT)\n"
-	@lilypond --svg --output=docs lilypond/bar-blues.ly
-	@lilypond --pdf --output=docs lilypond/bar-blues.ly
+	@lilypond --svg --output=docs lilypond/fur_elise.ly
+	@lilypond --pdf --output=docs lilypond/fur_elise.ly
 	@printf "$(GREEN)sheet done!$(DEFAULT)\n"
 
 
