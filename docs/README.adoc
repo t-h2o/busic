@@ -87,6 +87,16 @@ minor gamme of E -> Eb F  Gb Ab Bb Cb Db
 
 == Fur Elise
 
+download the pdf link:funky_town.pdf[PDF page]
+
+image::funky_town.svg[Static]
+
+== Fur Elise
+
 download the pdf link:fur_elise.pdf[PDF page]
 
 image::fur_elise.svg[Static]
+
+== openbook Jazz
+
+https://veltzer.github.io/openbook/output/openbook.pdf[openbook]

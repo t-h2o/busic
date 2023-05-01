@@ -20,6 +20,11 @@ lilypond:
 	@lilypond --pdf --output=docs lilypond/fur_elise.ly
 	@printf "$(GREEN)sheet done!$(DEFAULT)\n"
 
+lilyponddocker:
+	@printf "$(YELLOW)launch the asciidoctor/docker-asciidoctor docker image..$(DEFAULT)\n"
+	@docker run --rm -v $(shell pwd)/lilypond:/app -w /app jeandeaual/lilypond lilypond --svg funky_town.ly
+	@docker run --rm -v $(shell pwd)/lilypond:/app -w /app jeandeaual/lilypond lilypond --pdf funky_town.ly
+	@mv lilypond/{*pdf,*svg} docs/
 
 
 
