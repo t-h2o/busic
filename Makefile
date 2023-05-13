@@ -3,6 +3,7 @@ ADOC	=	asciidoctor --require=asciidoctor-diagram
 DOCU	=	docs/README.adoc
 INDEX	=	docs/index.html
 
+LILYPOND_FILE	=	lilypond/funky_town.ly
 
 
 doc:
@@ -16,8 +17,8 @@ docdocker:
 
 lilypond:
 	@printf "$(YELLOW)Generating beautiful sheet..$(DEFAULT)\n"
-	@lilypond --svg --output=docs lilypond/fur_elise.ly
-	@lilypond --pdf --output=docs lilypond/fur_elise.ly
+	@lilypond --svg --output=docs $(LILYPOND_FILE)
+	@lilypond --pdf --output=docs $(LILYPOND_FILE)
 	@printf "$(GREEN)sheet done!$(DEFAULT)\n"
 
 lilyponddocker:
