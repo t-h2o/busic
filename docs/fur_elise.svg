@@ -340,7 +340,7 @@ l-284 -330h167v131c0 34 34 27 68 72c22 30 23 56 36 56c6 0 13 -5 13 -14v-245h72c1
 <path transform="scale(0.0040, -0.0040)" d="M-81 -366c0 255 -132 363 -132 366c0 18 132 96 132 366c0 261 -108 489 -108 780c0 189 45 366 177 501c15 15 39 -9 24 -24c-99 -99 -129 -225 -129 -360c0 -255 102 -480 102 -765c0 -186 -45 -363 -174 -498c129 -135 174 -312 174 -498c0 -285 -102 -510 -102 -765
 c0 -135 30 -261 129 -360c15 -15 -9 -39 -24 -24c-132 135 -177 312 -177 501c0 291 108 519 108 780z" fill="currentColor"/>
 </g>
-<g transform="translate(5.4986, 12.9493)">
+<g transform="translate(5.9766, 12.8646)">
 <text font-family="serif" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>Piano</tspan>
 </text>
@@ -434,12 +434,12 @@ v-158c0 -10 -8 -19 -18 -19s-19 9 -19 19v145l-83 -31v-158c0 -10 -9 -19 -19 -19s-1
 <g transform="translate(44.8826, 6.6243)">
 <path transform="scale(0.0040, -0.0040)" d="M-7 375c8 4 17 7 25 7s16 -3 24 -7l-2 -183l106 20h3c10 0 18 -7 18 -17l7 -570c-8 -4 -17 -7 -25 -7s-16 3 -24 7l2 183l-106 -20h-3c-10 0 -18 7 -18 17zM131 112l-92 -17l-3 -207l92 17z" fill="currentColor"/>
 </g>
-<g transform="translate(30.6607, 165.0671)">
+<g transform="translate(34.7579, 165.1154)">
 <a xlink:href="https://lilypond.org/">
-<rect x="0.0000" y="-0.5280" width="58.1802" height="2.2000" fill="none" stroke="none" stroke-width="0.0"/>
+<rect x="0.0000" y="-0.4796" width="49.9858" height="1.9822" fill="none" stroke="none" stroke-width="0.0"/>
 </a>
 </g>
-<g transform="translate(30.6607, 165.0671)">
+<g transform="translate(34.7579, 165.1154)">
 <text font-family="serif" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>Music engraving by LilyPond 2.24.1—www.lilypond.org</tspan>
 </text>
