@@ -3,7 +3,14 @@
 \relative {
   \time 4/4
   \tempo 4 = 145
-  f''32 e32 d32 c32 b8 a32 g32 f32
+  e'8  [f] g4
+  e8   [g  d']
+  cis  [b  cis]
+  e2
+  c8   b   a4
+  g8  [a   b]
+  a   [g]  f4
+  a8  [d]
+  e2   e
   \bar "|"
-  e32. f
 }
